@@ -4,17 +4,12 @@ This is a Quiz App developed using the MERN (MongoDB, Express.js, React.js, Node
 
 ## Features
 
-- **User Authentication:** Users can sign up, log in, and securely authenticate using JWT (JSON Web Tokens).
-- **Quiz Creation:** Admin users can create, edit, and delete quizzes with various question types.
 - **Quiz Taking:** Users can take quizzes and receive instant feedback on their scores.
-- **Score Tracking:** User scores are stored and can be viewed in their profiles.
 
 ## Tech Stack
 
 - **Frontend:** React.js with state management using Redux.
 - **Backend:** Node.js with Express.js for the API.
-- **Database:** MongoDB for storing user data and quiz information.
-- **Authentication:** JWT (JSON Web Tokens) for secure user authentication.
 - **Styling:** Responsive design with CSS or styled-components.
 
 ## Installation
@@ -31,3 +26,6 @@ cd server && npm start
 cd ../client && npm start
 
 4.Open your browser and navigate to http://localhost:3000 to access the Quiz App.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
