@@ -18,14 +18,16 @@ This is a Quiz App developed using the MERN (MongoDB, Express.js, React.js, Node
 
 2. Install dependencies for both the client and server:
 
-cd mern-quiz-app
+cd quiz_app_mern
 cd client && npm install
-cd ../server && npm install 3. Run the development server:
+cd ../server && npm install
+
+3. Run the development server:
 
 cd server && npm start
 cd ../client && npm start
 
-3. Open your browser and navigate to http://localhost:3000 to access the Quiz App.
+4. Open your browser and navigate to http://localhost:3000 to access the Quiz App.
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
